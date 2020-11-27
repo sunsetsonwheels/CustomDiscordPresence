@@ -1,0 +1,21 @@
+{
+    "client_id": "",
+    "state": {
+        "state": "",
+        "details": "",
+        "timestamps": {
+            "start": null,
+            "end": null
+        }
+    },
+    "images": {
+        "large": {
+            "name": null,
+            "tooltip": null
+        },
+        "small": {
+            "name":  null,
+            "tooltip": null
+        }
+    }
+}
