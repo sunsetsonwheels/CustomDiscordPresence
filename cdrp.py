@@ -1,6 +1,6 @@
 __author__ = 'jkelol111'
 __copyright__ = 'Copyright (C) 2020-present jkelol111.'
-__license__ = 'Public Domain'
+__license__ = 'GNU General Public License Version 3'
 __version__ = '1.0.0'
 
 import os
@@ -13,6 +13,8 @@ import colorama
 colorama.init(autoreset=True)
 
 print(f"{colorama.Style.BRIGHT}{colorama.Fore.GREEN}CustomDiscordPresence v{__version__}. {__copyright__}")
+print(f"{colorama.Fore.YELLOW}Licenced to you under the {__license__}.")
+print("")
 print("Searching for cdrpcfg.json...")
 
 CONFIG_FILE_PATH = os.path.join(pathlib.Path(__file__).parent, "cdrpcfg.json")
