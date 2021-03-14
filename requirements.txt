@@ -1,6 +1,0 @@
-altgraph==0.17
-colorama==0.4.4
-macholib==1.14
-pyinstaller==4.1
-pyinstaller-hooks-contrib==2020.10
-pypresence==4.0.0
